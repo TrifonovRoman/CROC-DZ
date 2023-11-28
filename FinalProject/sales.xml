@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <sale>
+        <sale_id>1</sale_id>
+        <seller_id>1</seller_id>
+        <product_id>101</product_id>
+        <quantity>14</quantity>
+        <sale_date>2023-11-01</sale_date>
+    </sale>
+    <sale>
+        <sale_id>2</sale_id>
+        <seller_id>1</seller_id>
+        <product_id>102</product_id>
+        <quantity>7</quantity>
+        <sale_date>2023-11-01</sale_date>
+    </sale>
+    <sale>
+        <sale_id>3</sale_id>
+        <seller_id>2</seller_id>
+        <product_id>102</product_id>
+        <quantity>23</quantity>
+        <sale_date>2023-11-02</sale_date>
+    </sale>
+    <sale>
+        <sale_id>4</sale_id>
+        <seller_id>2</seller_id>
+        <product_id>101</product_id>
+        <quantity>15</quantity>
+        <sale_date>2023-11-02</sale_date>
+    </sale>
+    <sale>
+        <sale_id>5</sale_id>
+        <seller_id>1</seller_id>
+        <product_id>101</product_id>
+        <quantity>36</quantity>
+        <sale_date>2023-11-02</sale_date>
+    </sale>
+</sales>

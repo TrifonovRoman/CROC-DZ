@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<average_daily_sales>
+	<day>
+		<date>2023-11-02</date>
+		<average_sales>24.666666666666668</average_sales>
+	</day>
+	<day>
+		<date>2023-11-01</date>
+		<average_sales>10.5</average_sales>
+	</day>
+</average_daily_sales>

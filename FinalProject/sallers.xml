@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sellers>
+    <seller>
+        <seller_id>1</seller_id>
+        <last_name>Smith</last_name>
+        <first_name>John</first_name>
+    </seller>
+    <seller>
+        <seller_id>2</seller_id>
+        <last_name>Doe</last_name>
+        <first_name>Jane</first_name>
+    </seller>
+</sellers>

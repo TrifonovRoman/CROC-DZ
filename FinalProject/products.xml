@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <product_id>101</product_id>
+        <product_name>Laptop</product_name>
+    </product>
+    <product>
+        <product_id>102</product_id>
+        <product_name>Phone</product_name>
+    </product>
+    <product>
+        <product_id>103</product_id>
+        <product_name>PC</product_name>
+    </product>
+    <product>
+        <product_id>104</product_id>
+        <product_name>TV</product_name>
+    </product>
+    <product>
+        <product_id>105</product_id>
+        <product_name>Tablet</product_name>
+    </product>
+</products>

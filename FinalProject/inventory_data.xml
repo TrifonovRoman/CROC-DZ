@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory_data>
+    <inventory>
+        <seller_id>1</seller_id>
+        <product_id>101</product_id>
+        <price>10.99</price>
+        <quantity>50</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>1</seller_id>
+        <product_id>102</product_id>
+        <price>19.99</price>
+        <quantity>70</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>1</seller_id>
+        <product_id>103</product_id>
+        <price>99.99</price>
+        <quantity>15</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>1</seller_id>
+        <product_id>105</product_id>
+        <price>24.99</price>
+        <quantity>40</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>2</seller_id>
+        <product_id>101</product_id>
+        <price>9.99</price>
+        <quantity>100</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>2</seller_id>
+        <product_id>102</product_id>
+        <price>15.49</price>
+        <quantity>30</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>2</seller_id>
+        <product_id>103</product_id>
+        <price>89.99</price>
+        <quantity>150</quantity>
+    </inventory>
+    <inventory>
+        <seller_id>2</seller_id>
+        <product_id>104</product_id>
+        <price>69.69</price>
+        <quantity>69</quantity>
+    </inventory>
+
+</inventory_data>
